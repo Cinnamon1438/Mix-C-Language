@@ -1,2 +1,2 @@
-# Mix C Languagge
+# Mix C Language
 
