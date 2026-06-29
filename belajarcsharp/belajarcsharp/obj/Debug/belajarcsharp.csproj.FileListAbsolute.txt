@@ -1,0 +1,7 @@
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\bin\Debug\belajarcsharp.exe.config
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\bin\Debug\belajarcsharp.exe
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\bin\Debug\belajarcsharp.pdb
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\obj\Debug\belajarcsharp.csprojAssemblyReference.cache
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\obj\Debug\belajarcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\obj\Debug\belajarcsharp.exe
+C:\Users\Family\Desktop\belajarcsharp\belajarcsharp\obj\Debug\belajarcsharp.pdb

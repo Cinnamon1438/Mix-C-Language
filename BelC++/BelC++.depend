@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551249284 source:c:\users\raggnil\desktop\belc++\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1551320307 source:c:\users\raggnil\desktop\belc++\tikpes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556039703 source:c:\users\family\desktop\lots3\main.cpp
+	<iostream>
+	<cstdlib>
+
